@@ -7,6 +7,8 @@
 * SSAFY (Samsung Software Academy For Youth) 6기 교육생 (2021.07 ~ 2021.10)
 * Tmax Tibero Frontend Developer (2021.10 ~ ing)
 
+**Contact**
+<a href="mailto:"asdfg9377@naver.com">이메일</a>
 
 ✔ **Skills**
 

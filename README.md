@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/AndDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=Styled Components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F7DF12?style=flat-square&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion.js-F7DF12?style=flat-square&logo=emotion&logoColor=white"/>
 </div>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>

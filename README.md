@@ -1,5 +1,9 @@
 ### Hi there! 👋
 ---------------------------
+🧗 Notion Portfolio
+- 자세한 이력사항이나 포트폴리오를 원하시면 접속해주세요.
+[jpark's portfolio](https://jparkportfolio.notion.site/27a842b37d514aa7b8592d2cd076d98a)
+
 
 😎 **History**
 

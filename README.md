@@ -8,7 +8,7 @@
 
 ✔ **Activities**
 * Tibero Studio New Version FE/BE
-* Scents Note Admin Page FE - [Scents Note Admin](https://github.com/Scents-Note/A.fume.Admin)
+* Scents Note Admin Page FE
 * MYIL PWA APPLICATION FE
 
 ✔ **Skills**

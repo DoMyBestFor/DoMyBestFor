@@ -26,10 +26,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AndDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=Styled Components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
 </div>
 

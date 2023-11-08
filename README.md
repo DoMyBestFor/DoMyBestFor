@@ -9,7 +9,7 @@
 ✔ **Activities**
 * Tibero Studio New Version FE/BE
 * Scents Note Admin Page FE
-* MYIL PWA APPLICATION FE
+* MYIL PWA APPLICATION FE/BE
 
 ✔ **Skills**
 
@@ -31,7 +31,6 @@
 </div>
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 </div>
   
@@ -39,7 +38,7 @@
 
 ☎️ **Contact**
 
-* jongdae_park@tmax.co.kr
+* asdfg9377@naver.com
 
 
 
